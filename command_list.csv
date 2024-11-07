@@ -1,0 +1,113 @@
+    1  touch text_ignore.txt
+    2  touch text_igore.txt
+    3  nano.text_ignore
+    4  nano.text_ignore.txt
+    5  nano .gitignore
+    6  git status
+    7  touch text_ignore.txt
+    8  nano .gitignore
+    9  get status
+   10  git status 
+   11  git add.
+   12  git add .gitignore
+   13  commit 
+   14  git commit
+   15  git status
+   16  git add
+   17  nano .gitignore
+   18  git status
+   19  git add
+   20  git commit -m "complete"
+   21  touch main_test.txt
+   22  git add
+   23  git add main_test.txt
+   24  git add .gitignore
+   25  git commit complite
+   26  git commmit -m complite
+   27  git commit -m "complite"
+   28  git commit .gitignore 
+   29  git commit main_test.txt
+   30  git checkout -b developer
+   31  git checkout developer
+   32  touch develop_test.txt
+   33  git add
+   34  git add develop_test.txt
+   35  git commit -b "complite"
+   36  git commit -b "complite"
+   37  git commit develop_test.txt
+   38  git commit -m "complite"
+   39  nano develop_test.txt
+   40  git status
+   41  git add develop_test.txt
+   42  git add develop_test.txt
+   43  git commit -m "complite"
+   44  checkaut main
+   45  git checkout main 
+   46  git merge developer 
+   47  git log
+   48  history > command_list.csv
+   49  git add command_list.csv
+   50  git add command_list.csv
+   51  git commit -m "complite"
+   52  git push 
+   53  git clone 
+   54  git clone https://github.com/MainNoName/HW_10.git
+   55  git push
+   56  git clone https://github.com/MainNoName/HW_10.git
+   57  git clone https://github.com/MainNoName/HW_10.git
+   58  git clone https://github.com/MainNoName/HW_10.git
+   59  git clone https://github.com/MainNoName/HW_10.git
+   60  cd Desctop
+   61  ls
+   62  cd HW_10
+   63  touch text_ignore.txt
+   64  git nano .gitignore
+   65  nano .gitignore
+   66  nano .gitignore 
+   67  git status
+   68  git status
+   69  git status 
+   70  git add 
+   71  git add .gitignore
+   72  git commite -m "complite"
+   73  git commit -m "complite"
+   74  cd 
+   75  cd desktop 
+   76  cd Git 
+   77  cd HW_10
+   78  touch text_ignore.txt
+   79  git status
+   80  git clone https://github.com/MainNoName/HW_10.git
+   81  cd HW_10
+   82  touch text_ignore.txt
+   83  nano .gitignore
+   84  git status
+   85  git add 
+   86  git add .gitignore
+   87  git commit -m "complite"
+   88  touch main_test.txt
+   89  git add main_test.txt
+   90  git commit -m "complite"
+   91  git chekout -b develop
+   92  git checkout -b develop
+   93  git chekout develop
+   94  git checkout develop
+   95  touch develop_test.txt
+   96  git add develop_test.txt
+   97  git commit -m "complite"
+   98  nano develop test.txt 
+   99  git status
+  100  git add develop_test.txt
+  101  git commit -m "complite"
+  102  git commit -m "complite"
+  103  nano develop_test.txt
+  104  git status
+  105  git add develop_test_txt
+  106  git commit -m "complite"
+  107  git add 
+  108  git add develop_test.txt
+  109  git commit -m "complite"
+  110  git checkout main
+  111  git merge develop
+  112  git log
+  113  history > command_list.csv
